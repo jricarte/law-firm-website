@@ -2078,15 +2078,15 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #00ffcc;
+			color: #ffffff;
 		}
 
 		.icon.style2 {
-			color: #00f0ff;
+			color: #ffffff;
 		}
 
 		.icon.style3 {
-			color: #76ddff;
+			color: #ffffff;
 		}
 
 /* Image */
@@ -2817,7 +2817,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: #000000;
 			color: #c8ece9;
 		}
 
@@ -2911,7 +2911,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 .icon.major {
-				border-color: rgba(0, 0, 0, 0.125);
+				border-color: rgb(101,22,16);
 			}
 
 			.wrapper.style1 ul.alt li {
@@ -2976,7 +2976,7 @@ input, select, textarea {
 			}
 
 		.wrapper.style2 {
-			background-color: #2e3842;
+			background-color: #000000;
 		}
 
 		.wrapper.style3 {
@@ -3814,10 +3814,10 @@ input, select, textarea {
 
 	#main > header {
 		padding: 12em 0 10em 0 ;
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bannerlogo.PNG");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bannerlogo.PNG");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bannerlogo.PNG");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bannerlogo.PNG");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -3964,10 +3964,10 @@ input, select, textarea {
 /* Landing */
 
 	body.landing #page-wrapper {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bannerlogo.PNG");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bannerlogo.PNG");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bannerlogo.PNG");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bannerlogo.PNG");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -3985,10 +3985,10 @@ input, select, textarea {
 
 	body.is-mobile.landing #banner,
 	body.is-mobile.landing .wrapper.style4 {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bannerlogo.PNG");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bannerlogo.PNG");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bannerlogo.PNG");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bannerlogo.PNG");
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
