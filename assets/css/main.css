@@ -2487,7 +2487,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #ed4933;
+			background-color: #000000;
 			box-shadow: none !important;
 			color: #ffffff !important;
 		}
@@ -2604,7 +2604,7 @@ input, select, textarea {
 
 			.features li:before {
 				display: block;
-				color: #00ffcc;
+				color: #651610;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -2980,8 +2980,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
-			color: #d3d4e4;
+			background-color: #ffffff;
+			color: #000000;
 		}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
@@ -2989,7 +2989,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style3 h2, .wrapper.style3 h3, .wrapper.style3 h4, .wrapper.style3 h5, .wrapper.style3 h6 {
-				color: #ffffff;
+				color: #000000;
 			}
 
 			.wrapper.style3 hr {
@@ -3013,7 +3013,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style3 header.major p {
-				color: #d3d4e4;
+				color: #838486;
 			}
 
 			.wrapper.style3 label {
@@ -3351,8 +3351,8 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
-		color: #ffffff;
+		background: #ffffff;
+		color: #000000;
 		height: 100%;
 		max-width: 80%;
 		overflow-y: auto;
@@ -3445,7 +3445,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease;
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
-		background: #2e3842;
+		background: #000000;
 		height: 3em;
 		left: 0;
 		line-height: 3em;
@@ -3995,5 +3995,5 @@ input, select, textarea {
 	}
 
 	body.is-mobile.landing #footer {
-		background-color: #1d242a;
+		background-color: #000000;
 	}
