@@ -4020,3 +4020,7 @@ input, select, textarea {
 #phone-number {
 	margin-left: 40%
 }
+
+#phone-size {
+	font-size: 50px;
+}
