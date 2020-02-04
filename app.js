@@ -4,7 +4,9 @@ const http = require('http');
 const path = require('path');
 const nodemailer = require('nodemailer');
 
+
 const app = express();
+const PORT = process.env.PORT || 3000;
 
 // Static folder
 app.use(express.static(__dirname + '/public'));
@@ -67,4 +69,4 @@ app.post('/send', (req, res) => {
   });
   });
 
-app.listen(3000, () => console.log('Server started...'));
+app.listen(PORT, () => console.log('Server started...'));
