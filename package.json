@@ -2,7 +2,7 @@
   "name": "law-firm-website",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,9 +17,6 @@
     "url": "https://github.com/jricarte/law-firm-website/issues"
   },
   "homepage": "https://github.com/jricarte/law-firm-website#readme",
-  "engines": {
-    "npm": "6.9.0",
-    "node": "v10.16.2"
-  },
+
   "dependencies": {}
 }
