@@ -4,6 +4,17 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+  document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.collapsible');
+    var instances = M.Collapsible.init(elems, options);
+  });
+
+  // Or with jQuery
+
+  $(document).ready(function(){
+    $('.collapsible').collapsible();
+  });
+
 (function($) {
 
 	var	$window = $(window),
